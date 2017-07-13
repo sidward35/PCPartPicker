@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PC Part Picker</string>
+    <string name="search_hint">Search part</string>
+    <string name="app_label">Parts</string>
+    <string name="shareString">Share</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
